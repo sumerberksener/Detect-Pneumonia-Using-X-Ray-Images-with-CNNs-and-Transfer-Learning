@@ -8,3 +8,5 @@ The accuracy score achieved by the models were as below:
 4. Second transfer learning model: achieved an accuracy score of 0.89 on the test set.
 
 Our second transer learning model has achieved 0.89 accuracy score on the test set. This could have important use cases in the healthcare industry. Depending on what level of accuracy is required, employing a CNN model such as the one we've developed could greatly reduce the time medical professionals spend analysing the X-ray scans.
+
+The dataset used in this project couldn't be uplaoded to the repository due to its large size, however, it can be obtained using [this link](https://data.mendeley.com/datasets/rscbjbr9sj/2).

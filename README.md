@@ -1,5 +1,5 @@
 # Detect-Pneumonia-Using-X-Ray-Images-with-CNNs-and-Transfer-Learning
-I trained four different models in the project to predict whether a patient has pneumonia or not by looking at their X-ray scans. In two of these models I employed simple CNN models and in the last two I employed transfer learning using the `ResNet50V2` pre-trained mode.
+I trained four different models in the project to predict whether a patient has pneumonia or not by looking at their X-ray scans. In the first two of these models I employed simple CNN models and in the last two I employed transfer learning using the `ResNet50V2` pre-trained mode.
 
 The accuracy score achieved by the models were as below:
 1. First simple CNN model: achieved an accuracy score of 0.78 on the test set.
